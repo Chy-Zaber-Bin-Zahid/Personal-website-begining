@@ -1,0 +1,92 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+}
+
+.name{
+    color: rgb(211, 60, 111);
+}
+
+.upper-two-part{
+    width: 40%;
+    float:left;
+    margin-left: 7%;
+    margin-top: 5%;
+    padding-left: 2%; 
+}
+
+.fb-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(207, 51, 77),rgb(207, 51, 77));
+    color: white;
+    border-radius: 2px;
+    font-weight: 700;
+    padding: 10px 20px;
+}
+
+.upper-two-part img{
+    width: 60%;
+    padding-left: 50px;
+}
+
+section{
+    height: 500px;
+}
+
+.first-background{
+    background-image: url("personal-website/header-bg.png");
+    background-repeat: no-repeat;
+}
+
+.second-background{
+    background-image: url("personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+}
+
+.last-head{
+    text-align: center;
+}
+
+.last-background{
+    background-image: url("personal-website/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+/* .first{
+    width: 25%;
+    padding-left: 6%;
+} */
+.first{
+    width: 23%;
+    float:left;
+    margin-left: 7%;
+    margin-top: 5%;
+    padding-left: 2%; 
+}
+
+.final-background{
+    background-image: url("personal-website/footer-bg.png");
+    background-repeat: no-repeat;
+}
+
+.last-p{
+    color: gray;
+    text-align: center;
+    font-size: 12px;
+}
+
+.last-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(207, 51, 77),rgb(207, 51, 77));
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+    padding: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: center;
+}
+
+footer p{
+    text-align: center;
+}
